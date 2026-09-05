@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+input,
+button {
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+.modo-escuro {
+    background-color: #222;
+    color: white;
+}
